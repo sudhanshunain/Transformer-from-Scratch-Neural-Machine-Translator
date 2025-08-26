@@ -6,7 +6,7 @@ It covers the complete pipeline: model architecture, training on a parallel corp
 
 ---
 
-## 🚀 Features
+## Features
 - **Custom Transformer Implementation**  
   - Encoder–decoder architecture with multi-head self-attention and cross-attention  
   - Positional encoding for sequence order
